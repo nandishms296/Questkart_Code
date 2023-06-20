@@ -40,5 +40,4 @@ const Password = ({
 
   return renderField();
 };
-
 export default Password;
